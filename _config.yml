@@ -1,0 +1,12 @@
+# Site settings
+title: Lawrence O'Boyle
+email: vili.petal@protonmail.com
+description: >
+    Linux Systems Engineer who likes Arch Linux, C++, and learning from scratch.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://" # the base hostname & protocol for your site
+twitter_username: oboyleii
+github_username:  Vi1i
+
+# Build settings
+markdown: kramdown
